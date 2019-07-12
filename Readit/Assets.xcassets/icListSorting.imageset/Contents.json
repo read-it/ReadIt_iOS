@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "icListSorting.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "icListSorting@2x.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "icListSorting@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
